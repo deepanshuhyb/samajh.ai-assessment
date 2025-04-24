@@ -15,7 +15,7 @@ export default function Home () {
           <h1 className='text-white'>Assessment</h1>
         </div>
 
-        <div className='w-full flex justify-center '>
+        <div className='w-full h-[10px] md:h-full flex justify-center '>
           <CompareDemo />
         </div>
         <div className='flex justify-center '>
